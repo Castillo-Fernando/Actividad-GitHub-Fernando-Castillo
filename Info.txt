@@ -1,6 +1,9 @@
 Fernando Magaña Castillo
+
 10-03-2026
+
 2-2
+
 Creacion de un nuevo archivo de informacion 
 
 Que es un pull request?
