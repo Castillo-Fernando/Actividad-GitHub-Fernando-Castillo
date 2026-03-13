@@ -1,0 +1,5 @@
+Proyecto: Git Conflicts
+
+Responsable:Fernando Magaña Castillo
+
+Version: 1.0
